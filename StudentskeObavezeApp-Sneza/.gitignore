@@ -1,0 +1,29 @@
+# Build output
+bin/
+obj/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# VS local folder
+.vs/
+
+# Xamarin-specific
+*.apk
+*.ap_
+*.dex
+*.apk.d
+*.apk.idsig
+*.apk.signed
+
+# NuGet
+packages/
+*.nupkg
+project.lock.json
+
+# Others
+*.log
+*.tmp
